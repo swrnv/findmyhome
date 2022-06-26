@@ -17,7 +17,7 @@ const Search = ({ properties }) => {
         <Box>
             <Flex
                 cursor='pointer'
-                bg='gray.100dddddddddddddddddd'
+                bg='gray.100'
                 borderBottom='1px'
                 borderColor='gray.200'
                 p='2'
