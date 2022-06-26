@@ -1,6 +1,6 @@
 import '../styles/globals.css'
 import {ChakraProvider} from '@chakra-ui/react';
-import Router from 'next/Router';
+import Router from 'next/router';
 import Head from 'next/head';
 import NProgress from 'nprogress';
 
